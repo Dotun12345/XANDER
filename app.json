@@ -1,6 +1,6 @@
 {
-  "name": "BYTE-MD-LITE",
-  "description": "A lite version of BYTE-MD for TalkDrove Followers",
+  "name": "XANDER",
+  "description": "I stole sumn and im testing it rn",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/BYTE-MD-LITE.jpeg",
   "repository": "https://github.com/HyHamza/BYTE-MD-LITE/",
@@ -9,7 +9,7 @@
   "env": {
     "PREFIX": {
       "description": "choose your prefix of bot",
-      "value": ".",
+      "value": ",",
       "required": true
     },
     "AUTO_READ_STATUS": {
@@ -19,17 +19,17 @@
     },
     "AUTO_DOWNLOAD_STATUS": {
       "description": "Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "PM_PERMIT": {
       "description": "Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "BOT_NAME": {
-      "description": "put A name for your bot",
-      "value": "BYTE-V.lite",
+      "description": "bot name",
+      "value": "XANDER_BOTS",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -54,13 +54,13 @@
     },
     "SESSION_ID": {
       "description": "put your session ID, the code you received after pairing code make sure starts with Byt;;;",
-      "value": "",
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMlB0bXpBMlA0Y0o0WlBiMEE4Q0Q1b1Q5WGF5SUVsazhLVy9lcDNzTEZFUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiR2ErNmI4dTlHL2VBcEthbi9ISkhKQ1JWaHhFK2V6Q29rTzJiU0p2T01Edz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJHTzcvRjNJdEFZMExhRTR1b0hVbXpmL1ZzVVE0WXVuWTcxVko1TzVSRmtzPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVdmZLeGd0NHZPNFFDNkFOVEZQc0NHeVBXV0tyYU01MUY3R2hrWWkzYzJzPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjhCMTJ6TVMwNkJFektpV25OTHM2STVFbXdqTjByWWMyMXlKNXZnUkNyME09In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IktRMWVnK0hOT1ZZekhJeVVVcnQzc0cyOXhlT2xpR2pPK1hCaUZ1Mk1ZbEE9In19LCJzaWduZWRQcmVLZXkiOnsia",
       "required": true
     },
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "TalkDrove"
+      "value": "Ace"
     },
     "CHAT_BOT": {
       "desc": "Put on to allow the bot to chat with people who text you or put off if you don't want the bot to chat with people",
@@ -70,7 +70,7 @@
     "OWNER_NUMBER": {
       "desc": "Your number, don't put '+' and put your area code (e.g., '92')",
       "required": true,
-      "value": "923458017380"
+      "value": "2348064388246"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commands",
