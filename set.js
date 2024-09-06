@@ -24,11 +24,11 @@ module.exports = { session: process.env.SESSION_ID || 'Byte;;;',
 
 
 ///////////////////////////
-    A_REACT : process.env.AUTO_REACTION || 'on',
+    A_REACT : process.env.AUTO_REACTION || 'OFF',
     CHATBOT: process.env.CHAT_BOT || "off",
-    OWNER_NAME: process.env.OWNER_NAME || "TALKDROVE",
-    NUMERO_OWNER : process.env.OWNER_NUMBER || "923072380380",              
-    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
+    OWNER_NAME: process.env.OWNER_NAME || "XANDER",
+    NUMERO_OWNER : process.env.OWNER_NUMBER || "2348064388246",              
+    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
     BOT : process.env.BOT_NAME || 'BYTE-MD',
     OPENAI_API_KEY : process.env.OPENAI_API_KEY || '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',
